@@ -8,7 +8,7 @@ The fundamental problem with handwritten digit recognition is that handwritten d
 
 Therefore, this project aims to address these problems and provide a novel handwritten digit recognition system.
 
-#Team Details
+# Team Details
 Team Lead     - Suveksha A
 Team Member 1 - Sanjai Raj S
 Team Member 2 - Vishnukumar L
